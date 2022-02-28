@@ -9,4 +9,4 @@
 .. type: text
 -->
 
-Este es el punto de partida para el blog. Probando.
+Esta entrada es el punto de partida para este blog. La intención es compartir algunas reflexiones sobre lecturas realizadas, algunos escritos breves, ejercicios de escritura que vaya realizando, y todo lo que vaya surgiendo en el camino.
