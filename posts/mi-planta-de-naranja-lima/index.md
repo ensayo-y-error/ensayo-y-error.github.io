@@ -26,9 +26,15 @@ En la historia aparecen cuatro personas que tratan a Zezé de forma muy especial
 * Su hermana Gloria: la única hermana mayor que lo trata con cierta consideración, se convierte en su protectora.
 * Manuel Valladares (Portuga): enemigo, amigo y padre para Zezé. La muerte de Portuga deja en *shock* a Zezé.
 
-### Algunas reflexiones
-
 Es extraordinario como De Vasconcelos narra esa etapa de niño imaginativo, el que habla con las plantas, el que habla sólo, el que puede recrear en su mente una batalla, una invasión espacial o lo que sea. Debemos cuidar eso, no matarlo de golpe. 
+
+### Algunas frases y pasajes
+
+* *Cuando le escuché esa historia me quedé tan triste que prometí que cuando fuese poeta y sabio le iba a leer todas mis poesías*. Aquí Zezé habla de su madre, la cual nunca fue a la escuela, porque desde los seis años había tenido que trabajar en la fábrica del pueblo. 
+* *Y yo divido mi masita con ella porque mamá me enseñó que uno debe dividir la pobreza propia con quien todavía es más pobre*. Zezé le dice esto a su maestra, haciendo referencia a Dorotília, una compañera cuya familia era mucho más pobre que la de Zezé. 
+* *Porque eres la mejor persona del mundo. Nadie me maltrata cuando estoy cerca de ti y siento un sol de felicidad dentro de mi corazón*. Zezé respondiendo a Portuga sobre la razón por la cual no quería estar nunca más lejos de él.
+
+
 
 
 
