@@ -11,10 +11,13 @@
 
 <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312928956l/10200182.jpg" width="250px">
 
-Mi planta de naranja-lima es un libro de José Mauro de Vasconcelos, un escritor brasileño. Comencé a leerlo el día de ayer domingo, hoy lunes lo había terminado, es un libro relativamente corto, de no más de tres horas de lectura. Es de esos libros que cuando lo comienzas no quieres parar, sencillo de leer, directo. En la descripción del autor que Jofre Barroso hace al final del libro hay un fragmento que retrata de forma extraordinaria el libro y, al parecer, la literatura de José Mauro:
+Mi planta de naranja-lima es un libro de José Mauro de Vasconcelos, un escritor brasileño. Comencé a leerlo el día de ayer domingo, hoy lunes lo había terminado, es un libro relativamente corto, de no más de tres horas de lectura. Es de esos libros que cuando lo comienzas no quieres parar, sencillo de leer, directo, no hay marañas.. En la descripción del autor que Jofre Barroso hace al final del libro hay un fragmento que retrata de forma extraordinaria la forma general libro y, al parecer, la literatura de José Mauro:
 
 > ... fundamentalmente, es el corazón de su público lo que él busca, mucho más que su intelecto: sus libros son mensajes de un espíritu a otro, y nunca una vacía demostración de academicismo ...
 
+Pero bueno, ¿de qué va el libro? Mi planta de naranja-lima cuenta la historia de Zezé, un niño brasileño de cinco años, que vive en un poblado pobre como parte de una familia muy numerosa. Zezé es un niño muy travieso, pero también es muy listo, muy ocurrente, muy curioso, con una facilidad de palabra y manejo del lenguaje que sorprende a los mayores.
 
+En un momento, su padre pierde el empleo y tienen que mudarse a una casa un poco más chica. En esa casa Zezé se hace amigo de Minguito (o Xururuca), un árbol de naranja-lima pequeñito que le ha sido dado después de que sus hermanos han tomado la *mangueira* y el árbol de tamarindo más grandes.
+ 
 
 
