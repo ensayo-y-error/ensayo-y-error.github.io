@@ -24,7 +24,18 @@ En la historia aparecen cuatro personas que tratan a Zezé de forma muy especial
 * La maestra Cecilia Paim: quien cree que Zezé es un niño con un corazón enorme. Zezé se porta bien con ella, no hace travesuras en clase.
 * Don Ariovaldo: un vendedor ambulante de folletos de canciones, al cual Zezé ayuda a vender. Zezé quiere ser poeta, le gustan las letras.s
 * Su hermana Gloria: la única hermana mayor que lo trata con cierta consideración, se convierte en su protectora.
-* Manuel Valladares (Portuga): enemigo, amigo y padre para Zezé. Su muerte deja en *shock* a Zezé.
+* Manuel Valladares (Portuga): enemigo, amigo y padre para Zezé. La muerte de Portuga deja en *shock* a Zezé.
+
+### Algunas reflexiones
+
+Es extraordinario como De Vasconcelos narra esa etapa de niño imaginativo, el que habla con las plantas, el que habla sólo, el que puede recrear en su mente una batalla, una invasión espacial o lo que sea. Debemos cuidar eso, no matarlo de golpe. 
+
+
+
+
+
+
+
 
 
 
