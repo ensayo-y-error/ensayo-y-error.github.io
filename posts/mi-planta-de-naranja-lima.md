@@ -28,9 +28,9 @@ Es extraordinario como De Vasconcelos narra esa etapa de niño imaginativo, el q
 
 ### Algunas frases y pasajes
 
-* *Cuando le escuché esa historia me quedé tan triste que prometí que cuando fuese poeta y sabio le iba a leer todas mis poesías*. Aquí Zezé habla de su madre, la cual nunca fue a la escuela, porque desde los seis años había tenido que trabajar en la fábrica del pueblo. 
-* *Y yo divido mi masita con ella porque mamá me enseñó que uno debe dividir la pobreza propia con quien todavía es más pobre*. Zezé le dice esto a su maestra, haciendo referencia a Dorotília, una compañera cuya familia era mucho más pobre que la de Zezé. 
-* *Porque eres la mejor persona del mundo. Nadie me maltrata cuando estoy cerca de ti y siento un sol de felicidad dentro de mi corazón*. Zezé respondiendo a Portuga sobre la razón por la cual no quería estar nunca más lejos de él.
+* *Cuando le escuché esa historia me quedé tan triste que prometí que cuando fuese poeta y sabio le iba a leer todas mis poesías*. Aquí Zezé habla de su madre, la cual nunca fue a la escuela, porque desde los seis años había tenido que trabajar en la fábrica del pueblo. Me parece que esta frase refleja los deseos de un niño por darle lo mejor a su madre.
+* *Y yo divido mi masita con ella porque mamá me enseñó que uno debe dividir la pobreza propia con quien todavía es más pobre*. Zezé le dice esto a su maestra, haciendo referencia a Dorotília, una compañera cuya familia era mucho más pobre que la de Zezé. Una línea que muestra la bondad que hay en el corazón de Zezé.
+* *Porque eres la mejor persona del mundo. Nadie me maltrata cuando estoy cerca de ti y siento un sol de felicidad dentro de mi corazón*. Zezé respondiendo a Portuga sobre la razón por la cual no quería estar nunca más lejos de él. La amistad y la sensación de seguridad cuando tus sentimientos (y la integridad física) han sido vapuleados son ese aire puro después de una humareda.
 
 
 
