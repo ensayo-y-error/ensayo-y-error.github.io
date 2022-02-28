@@ -6,34 +6,6 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://ensayo-y-error.github.io/authors/pedro-jorge-de-los-santos.xml</loc>
-  <lastmod>2022-02-28T02:26:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://ensayo-y-error.github.io/authors/roberto-alsina.xml</loc>
-  <lastmod>2022-02-28T02:26:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://ensayo-y-error.github.io/categories/blog.xml</loc>
-  <lastmod>2022-02-28T02:26:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://ensayo-y-error.github.io/categories/cat_nikola.xml</loc>
-  <lastmod>2022-02-28T02:26:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://ensayo-y-error.github.io/categories/demo.xml</loc>
-  <lastmod>2022-02-28T02:26:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://ensayo-y-error.github.io/categories/nikola.xml</loc>
-  <lastmod>2022-02-28T02:26:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://ensayo-y-error.github.io/categories/python.xml</loc>
-  <lastmod>2022-02-28T02:26:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://ensayo-y-error.github.io/galleries/demo/rss.xml</loc>
   <lastmod>2022-02-28T03:25:00Z</lastmod>
  </sitemap>
@@ -43,10 +15,10 @@
  </sitemap>
  <sitemap>
   <loc>https://ensayo-y-error.github.io/rss.xml</loc>
-  <lastmod>2022-02-28T03:25:00Z</lastmod>
+  <lastmod>2022-02-28T19:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ensayo-y-error.github.io/sitemap.xml</loc>
-  <lastmod>2022-02-28T03:25:00Z</lastmod>
+  <lastmod>2022-02-28T19:50:00Z</lastmod>
  </sitemap>
 </sitemapindex>
