@@ -22,6 +22,10 @@ El libro me sirvió para descubrir muchos innovadores y proyectos que no conocí
 
 * [**Rafael Yuste**](https://es.wikipedia.org/wiki/Rafael_Yuste). Un científico español que trabaja en el [proyecto BRAIN](https://es.wikipedia.org/wiki/Brain_Research_through_Advancing_Innovative_Neurotechnologies), el cual tiene como objetivo crear un mapa de la actividad cerebral.
 
-* [**Pep Guardiola**]. A quienes estamos familiarizado con el fútbol el nombre de Guardiola nos resulta muy conocido. Indudablemente Guardiola es un innovador. Oppenheimer resalta de Guardiola el hecho de innovar cuando se está ganando o en los buenos tiempos, es decir: evitar *dormirse en los laureles*.
+* **Pep Guardiola**. A quienes estamos familiarizado con el fútbol el nombre de Guardiola nos resulta muy conocido. Indudablemente Guardiola es un innovador. Oppenheimer resalta de Guardiola el hecho de innovar cuando se está ganando o en los buenos tiempos, es decir: evitar *dormirse en los laureles*.
 
-* [**Richard Branson**] Un multimillonario inglés conocido por su marca Virgin. De Branson había leído ciertas cosas en Twitter cuando Virgin Galactic tuvo su [primer viaje espacial](https://www.bbc.com/mundo/noticias-57791463) en 2021, ganándole la "carrera" a Bezos y Musk.
+* **Richard Branson**. Un multimillonario inglés conocido por su marca Virgin. De Branson había leído ciertas cosas en Twitter cuando Virgin Galactic tuvo su [primer viaje espacial](https://www.bbc.com/mundo/noticias-57791463) en 2021, ganándole la "carrera" a Bezos y Musk.
+
+* **Elon Musk**. Creo que hay poco que agregar acerca de Musk, el innovador detrás de SpaceX y Tesla.
+
+* [**Emiliano Kargieman**](https://twitter.com/earlkman). Un argentino, fundador de Satellogic, una empresa dedicada al [desarrollo de microsatélites](https://www.infobae.com/tecno/2020/12/04/emiliano-kargieman-el-argentino-que-conquista-el-espacio-con-sus-microsatelites/).
