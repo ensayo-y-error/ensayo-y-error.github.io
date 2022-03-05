@@ -6,6 +6,22 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://ensayo-y-error.github.io/categories/creatividad.xml</loc>
+  <lastmod>2022-03-05T04:42:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ensayo-y-error.github.io/categories/favoritos.xml</loc>
+  <lastmod>2022-03-05T04:42:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ensayo-y-error.github.io/categories/innovacion.xml</loc>
+  <lastmod>2022-03-05T04:42:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ensayo-y-error.github.io/categories/literatura-brasilena.xml</loc>
+  <lastmod>2022-03-05T04:42:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://ensayo-y-error.github.io/galleries/demo/rss.xml</loc>
   <lastmod>2022-02-28T03:25:00Z</lastmod>
  </sitemap>
@@ -15,10 +31,10 @@
  </sitemap>
  <sitemap>
   <loc>https://ensayo-y-error.github.io/rss.xml</loc>
-  <lastmod>2022-03-05T02:21:00Z</lastmod>
+  <lastmod>2022-03-05T04:42:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ensayo-y-error.github.io/sitemap.xml</loc>
-  <lastmod>2022-03-05T02:21:00Z</lastmod>
+  <lastmod>2022-03-05T04:42:00Z</lastmod>
  </sitemap>
 </sitemapindex>
