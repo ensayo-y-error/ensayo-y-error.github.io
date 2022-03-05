@@ -2,7 +2,7 @@
 .. title: Crear o morir
 .. slug: crear-o-morir
 .. date: 2022-03-04 20:06:52 UTC-06:00
-.. tags: 
+.. tags: creatividad, innovación
 .. category: 
 .. link: 
 .. description: 

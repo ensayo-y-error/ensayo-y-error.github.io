@@ -2,7 +2,7 @@
 .. title: Mi planta de naranja-lima
 .. slug: mi-planta-de-naranja-lima
 .. date: 2022-02-28 13:40:45 UTC-06:00
-.. tags: 
+.. tags: literatura-brasileña, favoritos
 .. category: 
 .. link: 
 .. description: 
