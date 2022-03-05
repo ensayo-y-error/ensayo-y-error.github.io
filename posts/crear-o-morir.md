@@ -29,3 +29,15 @@ El libro me sirvió para descubrir muchos innovadores y proyectos que no conocí
 * **Elon Musk**. Creo que hay poco que agregar acerca de Musk, el innovador detrás de SpaceX y Tesla.
 
 * [**Emiliano Kargieman**](https://twitter.com/earlkman). Un argentino, fundador de Satellogic, una empresa dedicada al [desarrollo de microsatélites](https://www.infobae.com/tecno/2020/12/04/emiliano-kargieman-el-argentino-que-conquista-el-espacio-con-sus-microsatelites/).
+
+* [**Salman Khan**](https://es.wikipedia.org/wiki/Salman_Khan_(profesor)). Creador-fundador de [Khan Academy](https://es.khanacademy.org/), una organización educativa sin ánimo de lucro. Si has sido profesor o estudiante en los últimos años, seguro habrás oído de la plataforma.
+
+* [**Alfredo Zolezzi**](https://es.wikipedia.org/wiki/Alfredo_Zolezzi). Inventor chileno de la tecnología de purificación del agua [Plasma Water Sanitation System](https://blogs.iadb.org/agua/es/tecnologia-social-agua-chile/).
+
+* [**Beatriz Pellizzari**](https://www.ashoka.org/es/fellow/beatriz-pellizzari). Una argentina, innovadora social, enfocada en la temática de discapacidad.
+
+* [**Muhammad Yunus**](https://es.wikipedia.org/wiki/Muhammad_Yunus). Es un emprendedor social bangladesí, conocido mundialmente como el fundador de los microcréditos para los pobres, a través del [Banco Grameen](https://es.wikipedia.org/wiki/Banco_Grameen). Ganador del Premio Nobel de la Paz justamente por lo anterior.
+
+* [**Enrique Gómez Junco**](https://twitter.com/egomezjuncob). Un emprendedor mexicano fundador de [Optima Energía](https://www.optimaenergia.com/), una empresa que funciona bajo el modelo de *perfomance contracting*.
+
+* [**Luis Von Ahn**](https://es.wikipedia.org/wiki/Luis_von_Ahn). Von Ahn es un guatemalteco muy conocido en el ámbito de la informática y ciencias computacionales, entre otras cosas por haber creado [Duolingo](https://www.duolingo.com/learn), [CAPTCHA](https://es.wikipedia.org/wiki/Captcha) y [reCAPTCHA](https://es.wikipedia.org/wiki/ReCAPTCHA).
