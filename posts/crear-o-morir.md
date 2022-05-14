@@ -48,3 +48,8 @@ El libro me sirvió para descubrir muchos innovadores y proyectos que no conocí
 
 De acuerdo con Oppenheimer *el principal motivo por el cual no ha surgido un Jobs en nuestros países es que tenemos una cultura social -y legal- que no tolera el fracaso. Los grandes creadores fracasan muchas veces antes de triunfar, y para eso hacen falta sociedades tolerantes con el fracaso*.
 
+¿Qué es lo que genera la creatividad? De acuerdo con Richard Florida: *más que nada, es la presencia de otra gente creativa. La idea de que la creatividad es algo relacionado con grandes genios individuales es un gran mito. La realidad es que la creatividad es un proceso social: nuestros más grandes avances vienen de la gente de la que aprendemos, de la gente con la que competimos, y de la gente con la que colaboramos*.
+
+Hay una parte del libro en la cual se describe la postura de los *tecno-utópicos* vs los *tecno-escépticos*. Si nos preguntamos si ¿mejorará nuestra calidad de vida con todas estas innovaciones tecnológicas? ¿O, por el contrario, las impresoras 3D caseras, los autos que se manejan solos, las supercomputadoras que remplazarán a los médicos y los viajes intergalácticos nos llevarán a un mundo cada vez más dividido entre ricos y pobres, más dependiente de la tecnología y menos humano?
+
+Oppenheimer menciona que *para los innovadores de Silicon Valley y otros centros de innovación mundiales se trata de una pregunta superada hace mucho tiempo, no hay la menor duda de que los adelantos tecnológicos son el principal motor de la reducción de la pobreza y de la mejora en nuestra calidad de vida.*

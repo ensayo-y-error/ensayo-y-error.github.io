@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1652533725.482801
+_modified_time = 1652534950.5306845
 _enable_loop = True
 _template_filename = 'C:/Users/delos/OneDrive/Documentos/Blogs/nikola/lib/site-packages/nikola/data/themes/base/templates/story.tmpl'
 _template_uri = 'story.tmpl'
@@ -39,13 +39,13 @@ def render_body(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
         __M_locals = __M_dict_builtin(pageargs=pageargs)
-        messages = context.get('messages', UNDEFINED)
-        def content():
-            return render_content(context._locals(__M_locals))
+        enable_comments = context.get('enable_comments', UNDEFINED)
         pheader = _mako_get_namespace(context, 'pheader')
         site_has_comments = context.get('site_has_comments', UNDEFINED)
-        enable_comments = context.get('enable_comments', UNDEFINED)
+        def content():
+            return render_content(context._locals(__M_locals))
         post = context.get('post', UNDEFINED)
+        messages = context.get('messages', UNDEFINED)
         comments = _mako_get_namespace(context, 'comments')
         math = _mako_get_namespace(context, 'math')
         __M_writer = context.writer()
@@ -67,13 +67,13 @@ def render_body(context,**pageargs):
 def render_content(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
-        messages = context.get('messages', UNDEFINED)
-        def content():
-            return render_content(context)
+        enable_comments = context.get('enable_comments', UNDEFINED)
         pheader = _mako_get_namespace(context, 'pheader')
         site_has_comments = context.get('site_has_comments', UNDEFINED)
-        enable_comments = context.get('enable_comments', UNDEFINED)
+        def content():
+            return render_content(context)
         post = context.get('post', UNDEFINED)
+        messages = context.get('messages', UNDEFINED)
         comments = _mako_get_namespace(context, 'comments')
         math = _mako_get_namespace(context, 'math')
         __M_writer = context.writer()
