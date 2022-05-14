@@ -15,7 +15,6 @@
 
 **Crear o morir** es un libro de [Andrés Oppenheimer](https://es.wikipedia.org/wiki/Andr%C3%A9s_Oppenheimer), un periodista y escritor argentino. Es un libro muy bueno, hay un trabajo extraordinario de investigación y recopilación por parte de Oppenheimer. La lectura es sencilla y las entrevistas (y anécdotas/historias) con los diversos *innovadores* es algo muy positivo y que ponen de manifiesto algunos de las claves mencionadas por Oppenheimer.
 
-
 ## Algunos innovadores que aparecen a lo largo del libro
 
 El libro me sirvió para descubrir muchos innovadores y proyectos que no conocía, además de incluir muchos de los cuales ya tenía cierta referencia. A continuación se listan algunos de esos innovadores:
@@ -48,3 +47,4 @@ El libro me sirvió para descubrir muchos innovadores y proyectos que no conocí
 ## Algunas frases e ideas acerca de la innovación
 
 De acuerdo con Oppenheimer *el principal motivo por el cual no ha surgido un Jobs en nuestros países es que tenemos una cultura social -y legal- que no tolera el fracaso. Los grandes creadores fracasan muchas veces antes de triunfar, y para eso hacen falta sociedades tolerantes con el fracaso*.
+
