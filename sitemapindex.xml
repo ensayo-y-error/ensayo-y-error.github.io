@@ -7,19 +7,31 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://ensayo-y-error.github.io/categories/creatividad.xml</loc>
-  <lastmod>2022-05-14T13:06:00Z</lastmod>
+  <lastmod>2022-05-14T13:29:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ensayo-y-error.github.io/categories/escritoras-mexicanas.xml</loc>
+  <lastmod>2022-07-29T02:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ensayo-y-error.github.io/categories/favoritos.xml</loc>
-  <lastmod>2022-05-14T13:06:00Z</lastmod>
+  <lastmod>2022-07-29T02:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ensayo-y-error.github.io/categories/innovacion.xml</loc>
-  <lastmod>2022-05-14T13:06:00Z</lastmod>
+  <lastmod>2022-05-14T13:29:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ensayo-y-error.github.io/categories/literatura-brasilena.xml</loc>
   <lastmod>2022-05-14T13:06:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ensayo-y-error.github.io/categories/literatura-estadounidense.xml</loc>
+  <lastmod>2022-07-29T02:35:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ensayo-y-error.github.io/categories/literatura-mexicana.xml</loc>
+  <lastmod>2022-07-29T02:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ensayo-y-error.github.io/galleries/demo/rss.xml</loc>
@@ -31,10 +43,10 @@
  </sitemap>
  <sitemap>
   <loc>https://ensayo-y-error.github.io/rss.xml</loc>
-  <lastmod>2022-05-14T13:06:00Z</lastmod>
+  <lastmod>2022-07-29T02:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ensayo-y-error.github.io/sitemap.xml</loc>
-  <lastmod>2022-05-14T13:08:00Z</lastmod>
+  <lastmod>2022-07-29T02:35:00Z</lastmod>
  </sitemap>
 </sitemapindex>
