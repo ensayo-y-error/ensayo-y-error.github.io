@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1659757363.735269
+_modified_time = 1659757497.4632816
 _enable_loop = True
 _template_filename = 'themes/blogtxt/templates/post.tmpl'
 _template_uri = 'post.tmpl'
@@ -39,19 +39,19 @@ def render_body(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
         __M_locals = __M_dict_builtin(pageargs=pageargs)
-        messages = context.get('messages', UNDEFINED)
-        pheader = _mako_get_namespace(context, 'pheader')
-        math = _mako_get_namespace(context, 'math')
-        permalink = context.get('permalink', UNDEFINED)
         post = context.get('post', UNDEFINED)
-        def content():
-            return render_content(context._locals(__M_locals))
-        title = context.get('title', UNDEFINED)
-        comments = _mako_get_namespace(context, 'comments')
+        math = _mako_get_namespace(context, 'math')
         helper = _mako_get_namespace(context, 'helper')
         def sourcelink():
             return render_sourcelink(context._locals(__M_locals))
+        messages = context.get('messages', UNDEFINED)
+        title = context.get('title', UNDEFINED)
+        def content():
+            return render_content(context._locals(__M_locals))
+        comments = _mako_get_namespace(context, 'comments')
         date_format = context.get('date_format', UNDEFINED)
+        pheader = _mako_get_namespace(context, 'pheader')
+        permalink = context.get('permalink', UNDEFINED)
         def extra_head():
             return render_extra_head(context._locals(__M_locals))
         __M_writer = context.writer()
@@ -80,9 +80,9 @@ def render_extra_head(context,**pageargs):
     try:
         helper = _mako_get_namespace(context, 'helper')
         post = context.get('post', UNDEFINED)
-        math = _mako_get_namespace(context, 'math')
         def extra_head():
             return render_extra_head(context)
+        math = _mako_get_namespace(context, 'math')
         __M_writer = context.writer()
         __M_writer('\n')
         __M_writer(str(helper.twitter_card_information(post)))
@@ -101,19 +101,19 @@ def render_extra_head(context,**pageargs):
 def render_content(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
-        messages = context.get('messages', UNDEFINED)
-        pheader = _mako_get_namespace(context, 'pheader')
-        math = _mako_get_namespace(context, 'math')
-        permalink = context.get('permalink', UNDEFINED)
         post = context.get('post', UNDEFINED)
-        def content():
-            return render_content(context)
-        title = context.get('title', UNDEFINED)
-        comments = _mako_get_namespace(context, 'comments')
+        math = _mako_get_namespace(context, 'math')
         helper = _mako_get_namespace(context, 'helper')
         def sourcelink():
             return render_sourcelink(context)
+        messages = context.get('messages', UNDEFINED)
+        title = context.get('title', UNDEFINED)
+        def content():
+            return render_content(context)
+        comments = _mako_get_namespace(context, 'comments')
         date_format = context.get('date_format', UNDEFINED)
+        pheader = _mako_get_namespace(context, 'pheader')
+        permalink = context.get('permalink', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n    <div id="post-')
         __M_writer(str(post.meta('slug')))
@@ -158,8 +158,8 @@ def render_sourcelink(context,**pageargs):
     try:
         def sourcelink():
             return render_sourcelink(context)
-        messages = context.get('messages', UNDEFINED)
         post = context.get('post', UNDEFINED)
+        messages = context.get('messages', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         if not post.meta('password'):
