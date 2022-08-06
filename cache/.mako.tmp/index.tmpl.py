@@ -5,12 +5,12 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1659757682.9830713
+_modified_time = 1659808697.2459583
 _enable_loop = True
-_template_filename = 'themes/blogtxt/templates/index.tmpl'
+_template_filename = 'themes/planetoid/templates/index.tmpl'
 _template_uri = 'index.tmpl'
 _source_encoding = 'utf-8'
-_exports = ['extra_head', 'content']
+_exports = ['content']
 
 
 def _mako_get_namespace(context, name):
@@ -23,12 +23,6 @@ def _mako_generate_namespaces(context):
     ns = runtime.TemplateNamespace('helper', context._clean_inheritance_tokens(), templateuri='index_helper.tmpl', callables=None,  calling_uri=_template_uri)
     context.namespaces[(__name__, 'helper')] = ns
 
-    ns = runtime.TemplateNamespace('comments', context._clean_inheritance_tokens(), templateuri='comments_helper.tmpl', callables=None,  calling_uri=_template_uri)
-    context.namespaces[(__name__, 'comments')] = ns
-
-    ns = runtime.TemplateNamespace('math', context._clean_inheritance_tokens(), templateuri='math_helper.tmpl', callables=None,  calling_uri=_template_uri)
-    context.namespaces[(__name__, 'math')] = ns
-
 def _mako_inherit(template, context):
     _mako_generate_namespaces(context)
     return runtime._inherit_from(context, 'base.tmpl', _template_uri)
@@ -36,28 +30,15 @@ def render_body(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
         __M_locals = __M_dict_builtin(pageargs=pageargs)
-        comments = _mako_get_namespace(context, 'comments')
-        math = _mako_get_namespace(context, 'math')
-        def extra_head():
-            return render_extra_head(context._locals(__M_locals))
         date_format = context.get('date_format', UNDEFINED)
-        lang = context.get('lang', UNDEFINED)
-        helper = _mako_get_namespace(context, 'helper')
         posts = context.get('posts', UNDEFINED)
         def content():
             return render_content(context._locals(__M_locals))
+        helper = _mako_get_namespace(context, 'helper')
         messages = context.get('messages', UNDEFINED)
-        index_teasers = context.get('index_teasers', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
-        __M_writer('\n')
-        __M_writer('\n')
-        __M_writer('\n')
-        if 'parent' not in context._data or not hasattr(context._data['parent'], 'extra_head'):
-            context['self'].extra_head(**pageargs)
-        
-
-        __M_writer('\n')
+        __M_writer('\n\n')
         if 'parent' not in context._data or not hasattr(context._data['parent'], 'content'):
             context['self'].content(**pageargs)
         
@@ -68,62 +49,35 @@ def render_body(context,**pageargs):
         context.caller_stack._pop_frame()
 
 
-def render_extra_head(context,**pageargs):
-    __M_caller = context.caller_stack._push_frame()
-    try:
-        def extra_head():
-            return render_extra_head(context)
-        posts = context.get('posts', UNDEFINED)
-        math = _mako_get_namespace(context, 'math')
-        __M_writer = context.writer()
-        __M_writer('\n    ')
-        __M_writer(str(math.math_styles_ifposts(posts)))
-        __M_writer('\n')
-        return ''
-    finally:
-        context.caller_stack._pop_frame()
-
-
 def render_content(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
-        comments = _mako_get_namespace(context, 'comments')
-        math = _mako_get_namespace(context, 'math')
         date_format = context.get('date_format', UNDEFINED)
-        lang = context.get('lang', UNDEFINED)
-        helper = _mako_get_namespace(context, 'helper')
         posts = context.get('posts', UNDEFINED)
-        messages = context.get('messages', UNDEFINED)
         def content():
             return render_content(context)
-        index_teasers = context.get('index_teasers', UNDEFINED)
+        helper = _mako_get_namespace(context, 'helper')
+        messages = context.get('messages', UNDEFINED)
         __M_writer = context.writer()
-        __M_writer('\n')
+        __M_writer('\n<div class="postindex">\n')
         for post in posts:
-            __M_writer('        <div class="post hfeed">\n            <h2 class="entry-title"><a href="')
-            __M_writer(str(post.permalink()))
-            __M_writer('">')
+            __M_writer('    <article class="h-entry" style="border: 2px solid darkgrey; margin-bottom: 12px; border-radius: 4px; padding:12px; overflow: auto;">\n    <header>\n        <h1 class="p-name entry-title"><a href="')
+            __M_writer(str(post.meta('link')))
+            __M_writer('" class="u-url">')
             __M_writer(str(post.title()))
-            __M_writer('</a></h2>\n            <div class="entry-content">\n                ')
-            __M_writer(str(post.text(lang,index_teasers)))
-            __M_writer('\n            </div>\n            <div class="entry-meta">\n                <span class="meta-sep">|</span>\n                <span class="entry-date">')
-            __M_writer(str(messages("Posted:")))
-            __M_writer(' <time class="published" datetime="')
+            __M_writer('</h1></a>\n        <div class="metadata">\n            <p class="dateline"><a href="')
+            __M_writer(str(post.meta('link')))
+            __M_writer('" rel="bookmark"><time class="published dt-published" datetime="')
             __M_writer(str(post.date.isoformat()))
+            __M_writer('" itemprop="datePublished" title="')
+            __M_writer(str(messages("Publication date")))
             __M_writer('">')
             __M_writer(str(post.formatted_date(date_format)))
-            __M_writer('</time></span>\n                <span class="meta-sep">|</span>\n')
-            if not post.meta('nocomments'):
-                __M_writer('    \t\t        ')
-                __M_writer(str(comments.comment_link(post.permalink(), post.base_path)))
-                __M_writer('\n')
-            __M_writer('            </div>\n        </div>\n')
-        __M_writer('    ')
+            __M_writer('</time></a></p>\n        </div>\n    </header>\n    <div class="p-summary entry-summary">\n    ')
+            __M_writer(str(post.text()))
+            __M_writer('\n    </div>\n    </article>\n')
+        __M_writer('</div>\n')
         __M_writer(str(helper.html_pager()))
-        __M_writer('\n    ')
-        __M_writer(str(comments.comment_link_script()))
-        __M_writer('\n    ')
-        __M_writer(str(math.math_scripts_ifposts(posts)))
         __M_writer('\n')
         return ''
     finally:
@@ -132,6 +86,6 @@ def render_content(context,**pageargs):
 
 """
 __M_BEGIN_METADATA
-{"filename": "themes/blogtxt/templates/index.tmpl", "uri": "index.tmpl", "source_encoding": "utf-8", "line_map": {"23": 2, "26": 3, "29": 4, "35": 0, "52": 2, "53": 3, "54": 4, "55": 5, "60": 8, "65": 29, "71": 6, "79": 6, "80": 7, "81": 7, "87": 9, "101": 9, "102": 10, "103": 11, "104": 12, "105": 12, "106": 12, "107": 12, "108": 14, "109": 14, "110": 18, "111": 18, "112": 18, "113": 18, "114": 18, "115": 18, "116": 20, "117": 21, "118": 21, "119": 21, "120": 23, "121": 26, "122": 26, "123": 26, "124": 27, "125": 27, "126": 28, "127": 28, "133": 127}}
+{"filename": "themes/planetoid/templates/index.tmpl", "uri": "index.tmpl", "source_encoding": "utf-8", "line_map": {"23": 2, "29": 0, "40": 2, "41": 3, "46": 22, "52": 5, "62": 5, "63": 7, "64": 8, "65": 10, "66": 10, "67": 10, "68": 10, "69": 12, "70": 12, "71": 12, "72": 12, "73": 12, "74": 12, "75": 12, "76": 12, "77": 16, "78": 16, "79": 20, "80": 21, "81": 21, "87": 81}}
 __M_END_METADATA
 """
