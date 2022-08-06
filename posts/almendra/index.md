@@ -9,4 +9,7 @@
 .. type: text
 -->
 
-Escriba su publicación aquí.
+
+<p style="text-align: center;">
+<img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582201292l/51484920.jpg" width="200px">
+</p>
