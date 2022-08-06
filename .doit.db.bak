@@ -171,3 +171,6 @@
 'render_taxonomies:output\\categories\\no-ficcion.xml', (872960, 537)
 'render_taxonomies:output\\categories\\draft.xml', (873984, 938)
 'render_pages:output\\posts\\un-pequeno-empujon\\index.html', (878080, 4651)
+'render_posts:cache\\posts\\almendra.html', (899584, 354)
+'render_pages:output\\posts\\almendra\\index.html', (907264, 4601)
+'render_sources:output\\posts\\almendra\\index.md', (911872, 242)
