@@ -593,7 +593,7 @@ table.codetable, table.highlighttable { width: 100%;}
 div#container{float:left;margin:0 0 0 -20em;width:100%;}
 div#content{margin:0 0 0 20em;}
 div#footer{clear:both;width:100%;}
-div#header{margin:0 0 0 -0.9em;padding:0.2em 0 0;}
+div#header{margin:0 0 1em -0.9em;padding:0.2em 0 0;}
 div#header div#blog-description,div#header div.archive-description{margin:0.2em 0 0 0.9em;}
 div#header h1#blog-title{padding:0 0 0 0.2em;}
 div#primary{margin-top:1em;padding-top:1em;}

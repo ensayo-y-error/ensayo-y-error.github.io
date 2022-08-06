@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1659756532.6411242
+_modified_time = 1659757364.0144405
 _enable_loop = True
 _template_filename = 'templates/book.tmpl'
 _template_uri = 'book.tmpl'
@@ -40,10 +40,10 @@ def render_body(context,**pageargs):
             return render_content(context._locals(__M_locals))
         parent = context.get('parent', UNDEFINED)
         post = context.get('post', UNDEFINED)
-        def extra_js():
-            return render_extra_js(context._locals(__M_locals))
         def extra_head():
             return render_extra_head(context._locals(__M_locals))
+        def extra_js():
+            return render_extra_js(context._locals(__M_locals))
         __M_writer = context.writer()
         __M_writer('\n')
         __M_writer('\n')
@@ -87,9 +87,9 @@ def render_extra_head(context,**pageargs):
 def render_content(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
-        post = context.get('post', UNDEFINED)
         def content():
             return render_content(context)
+        post = context.get('post', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n<article class="storypage" itemscope="itemscope" itemtype="http://schema.org/Article">\n    <div class="frame">\n    <div class="scrolling-cont" id="scrolling-cont" name="scrolling-cont">\n    <div class="e-content entry-content chapter" itemprop="articleBody text">\n    <h1>')
         __M_writer(str(post.title()))
