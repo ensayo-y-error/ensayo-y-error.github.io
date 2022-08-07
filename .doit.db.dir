@@ -30,7 +30,7 @@
 'render_taxonomies:output\\categories\\index.html', (1351680, 4982)
 'render_taxonomies:output\\categories\\nikola\\index.html', (49664, 2588)
 'render_pages:output\\pages\\charts\\index.html', (1515008, 10472)
-'sitemap:output\\sitemap.xml', (1577984, 9469)
+'sitemap:output\\sitemap.xml', (1577984, 9470)
 'render_pages:output\\pages\\bootstrap-demo\\index.html', (1525760, 10512)
 'render_sources:output\\pages\\social_buttons\\index.rst', (69632, 257)
 'render_sources:output\\pages\\internals\\index.rst', (70144, 247)
