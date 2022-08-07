@@ -2,7 +2,7 @@
 .. title: Un pequeño empujón
 .. slug: un-pequeno-empujon
 .. date: 2022-07-28 21:54:09 UTC-05:00
-.. tags: draft, no-ficción,
+.. tags: no-ficción, economía,
 .. category: 
 .. link: 
 .. description: 
@@ -30,5 +30,24 @@ El empujoncito (nudge) se puede entender como una manera de hacer que un grupo d
 
 *El optimismo no realista es un rasgo universal de la vida humana; caracteriza a la mayoría de las personas de casi todas las categorías sociales.*
 
-*La aversión a la pérdida no es la única causa de la inercia. Por muchas razo*
+*La aversión a la pérdida no es la única causa de la inercia. Por muchas razones la gente tiene una tendencia general a aferrarse a su situación actual. Este fenómeno es conocido como el sesgo del status quo.*
+
+*En frío no apreciamos hasta qué punto se alterarán nuestros deseos y nuestra conducta cuando estamos bajo la influencia de la excitación.*
+
+*Un consejo: si quiere perder peso, use platos más pequeños, compre paquetes pequeños de lo que le guste y no tenga comida tentadora en la nevera. Los problemas de autcontrol combinados con la decisión irreflexiva tienen malas consecuencias para la gente real.*
+
+*Las influencias sociales se agrupan en dos categorías básicas. La primera conlleva información. Si muchas personas hacen o piensan algo, sus actos y sus pensamientos transmiten información sobre lo que a usted podría convenirle hacer o pensar. La segunda implica la presión de los demás. Si le preocupa lo que los demás piensen de usted (quizá por creer equivocadamente que prestan atención a lo que hace), entonces podría imitarlos para evitar su ira o para congraciarse con ellos.*
+
+Los autores mencionan algunos hallazgos interesante de algunas investigaciones acerca de los nudges sociales, por ejemplo:
+
+* *Las adolescentes que ven que otras adolescentes tienen hijos tienen más probabilidades de quedarse embarazadas.*
+* *La obesidad es contagiosa. Si su mejor amigo engorda, aumenta el riesgo de que usted también gane peso.*
+* *Las cadenas televisivas se imitan unas a otras y producen tendencias en la programación que por lo demás son inexplicables.*
+* *El esfuerzo académico de los estudiantes está influido por sus compañeros, hasta el punto de que la asignación aleatoria del compañero de habitación en una residencia estudiantil puede tener importantes consecuencias para sus calificaciones y, por tanto, para sus perspectivas futuras.*
+
+*Una razón por la que la gente se esfuerza tanto por amoldarse a las normas y modas sociales es que piensa que los demás prestan atención a lo que hacen ... La moraleja es que la gente presta menos atención de lo que uno cree.*
+
+*Si se pregunta a alguien si tiene la intención de consumir ciertos alimentos, seguir una dieta o hacer ejercicio, su respuesta afectará su conducta. En nuestra jerga, el efecto de la mera medición es un nudge y puede utilizarse con fines privados o públicos.*
+
+
 
