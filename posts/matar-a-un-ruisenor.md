@@ -2,7 +2,7 @@
 .. title: Matar a un ruiseñor
 .. slug: matar-a-un-ruisenor
 .. date: 2022-05-14 14:49:12 UTC-05:00
-.. tags: favoritos, literatura-estadounidense, draft
+.. tags: favoritos, literatura-estadounidense
 .. category: 
 .. link: 
 .. description: 
