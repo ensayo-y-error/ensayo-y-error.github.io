@@ -10,8 +10,7 @@
 -->
 
 <p style="text-align: center;">
-<img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509133920l/36488002._SY475_.jpg
-" width="200px">
+<img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509133920l/36488002._SY475_.jpg" width="150px">
 </p>
 
 **Un pequeño empujón** es un libro escrito por Richard Thaler y Cass Sunstein, en el cual se aborda la Teoría del empujoncito (nudge). A lo largo del texto los autores exponen las ventajas del paternalismo libertario, de cómo el Estado podría ayudar a las personas a tomar mejores decisiones *por defecto*, en el entendido de que posee mayor información para seleccionar la alternativa más conveniente. 
