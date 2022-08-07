@@ -18,6 +18,8 @@
 
 El empujoncito (nudge) se puede entender como una manera de hacer que un grupo de personas tomen una decisión predeterminada sin obligarlas de forma explícita o autoritaria. Naturalmente, el empujoncito funcionaría, positivamente, en un caso donde sólo hay buenas intenciones de la parte que lo proporciona, y eso es algo que seguramente sería un tanto difícil de lograr.
 
+El libro está dividido en cuatro partes. La primera parte (Humanos y econs) aborda los sesgos y errores que cometemos los humanos, a diferencia de un *homo economicus*. Una persona promedio difícilmente posee la información suficiente para la toma de decisiones, y lo que es más, aún cuando la información se tuviera muchas veces el procesarla puede ser complicado. En esta primera parte se aborda también lo relacionado con la tentación y estrategias de autocontrol, de cuán beneficioso puede ser hacer que sea difícil realizar una acción no deseada, o bien, el facilitar una tarea que resulte poco atractiva. Thaler y Sunstein describen también como los humanos somos muy propensos a seguir al rebaño, es decir hacer lo mismo que los demás, porque buscamos la conformidad, mencionan que *"una razón por la que la gente se esfuerza tanto por amoldarse a las normas y modas sociales es que piensa que los demás prestan atención a lo que hacen"*, cuando realmente la gente presta mucho menos atención de la que nosotros creemos.
+
 ## Algunos pasajes
 
 *Los nudges no son órdenes. Colocar la fruta de forma bien visible es un nudge. Prohibir la comida basura no lo es.* 
@@ -34,7 +36,7 @@ El empujoncito (nudge) se puede entender como una manera de hacer que un grupo d
 
 *En frío no apreciamos hasta qué punto se alterarán nuestros deseos y nuestra conducta cuando estamos bajo la influencia de la excitación.*
 
-*Un consejo: si quiere perder peso, use platos más pequeños, compre paquetes pequeños de lo que le guste y no tenga comida tentadora en la nevera. Los problemas de autcontrol combinados con la decisión irreflexiva tienen malas consecuencias para la gente real.*
+*Un consejo: si quiere perder peso, use platos más pequeños, compre paquetes pequeños de lo que le guste y no tenga comida tentadora en la nevera. Los problemas de autocontrol combinados con la decisión irreflexiva tienen malas consecuencias para la gente real.*
 
 *Las influencias sociales se agrupan en dos categorías básicas. La primera conlleva información. Si muchas personas hacen o piensan algo, sus actos y sus pensamientos transmiten información sobre lo que a usted podría convenirle hacer o pensar. La segunda implica la presión de los demás. Si le preocupa lo que los demás piensen de usted (quizá por creer equivocadamente que prestan atención a lo que hace), entonces podría imitarlos para evitar su ira o para congraciarse con ellos.*
 
