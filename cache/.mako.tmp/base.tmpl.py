@@ -5,9 +5,9 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1660325630.9291937
+_modified_time = 1660327455.127406
 _enable_loop = True
-_template_filename = 'C:/Users/delos/OneDrive/Documentos/Blogs/nikola/lib/site-packages/nikola/data/themes/base/templates/base.tmpl'
+_template_filename = 'themes/numython/templates/base.tmpl'
 _template_uri = 'base.tmpl'
 _source_encoding = 'utf-8'
 _exports = ['extra_head', 'content', 'extra_js']
@@ -37,23 +37,23 @@ def render_body(context,**pageargs):
         _mako_get_namespace(context, 'base')._populate(_import_ns, ['*'])
         _mako_get_namespace(context, 'header')._populate(_import_ns, ['*'])
         _mako_get_namespace(context, 'footer')._populate(_import_ns, ['*'])
-        template_hooks = _import_ns.get('template_hooks', context.get('template_hooks', UNDEFINED))
-        luxon_locales = _import_ns.get('luxon_locales', context.get('luxon_locales', UNDEFINED))
+        body_end = _import_ns.get('body_end', context.get('body_end', UNDEFINED))
         def extra_head():
             return render_extra_head(context._locals(__M_locals))
+        def content():
+            return render_content(context._locals(__M_locals))
         def extra_js():
             return render_extra_js(context._locals(__M_locals))
         date_fanciness = _import_ns.get('date_fanciness', context.get('date_fanciness', UNDEFINED))
-        body_end = _import_ns.get('body_end', context.get('body_end', UNDEFINED))
-        def content():
-            return render_content(context._locals(__M_locals))
-        set_locale = _import_ns.get('set_locale', context.get('set_locale', UNDEFINED))
-        luxon_date_format = _import_ns.get('luxon_date_format', context.get('luxon_date_format', UNDEFINED))
-        messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
-        footer = _mako_get_namespace(context, 'footer')
-        header = _mako_get_namespace(context, 'header')
-        base = _mako_get_namespace(context, 'base')
         lang = _import_ns.get('lang', context.get('lang', UNDEFINED))
+        luxon_date_format = _import_ns.get('luxon_date_format', context.get('luxon_date_format', UNDEFINED))
+        base = _mako_get_namespace(context, 'base')
+        footer = _mako_get_namespace(context, 'footer')
+        messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
+        template_hooks = _import_ns.get('template_hooks', context.get('template_hooks', UNDEFINED))
+        set_locale = _import_ns.get('set_locale', context.get('set_locale', UNDEFINED))
+        luxon_locales = _import_ns.get('luxon_locales', context.get('luxon_locales', UNDEFINED))
+        header = _mako_get_namespace(context, 'header')
         __M_writer = context.writer()
         __M_writer('\n')
         __M_writer('\n')
@@ -153,6 +153,6 @@ def render_extra_js(context,**pageargs):
 
 """
 __M_BEGIN_METADATA
-{"filename": "C:/Users/delos/OneDrive/Documentos/Blogs/nikola/lib/site-packages/nikola/data/themes/base/templates/base.tmpl", "uri": "base.tmpl", "source_encoding": "utf-8", "line_map": {"23": 2, "26": 3, "29": 4, "32": 0, "58": 2, "59": 3, "60": 4, "61": 5, "62": 5, "63": 7, "64": 7, "69": 10, "70": 11, "71": 11, "72": 14, "73": 14, "74": 16, "75": 16, "80": 18, "81": 20, "82": 20, "83": 22, "84": 22, "85": 23, "86": 24, "87": 26, "88": 26, "89": 27, "90": 27, "91": 27, "92": 27, "93": 31, "98": 31, "99": 37, "100": 37, "101": 38, "102": 38, "108": 8, "118": 8, "124": 18, "139": 31, "154": 139}}
+{"filename": "themes/numython/templates/base.tmpl", "uri": "base.tmpl", "source_encoding": "utf-8", "line_map": {"23": 2, "26": 3, "29": 4, "32": 0, "58": 2, "59": 3, "60": 4, "61": 5, "62": 5, "63": 7, "64": 7, "69": 10, "70": 11, "71": 11, "72": 14, "73": 14, "74": 16, "75": 16, "80": 18, "81": 20, "82": 20, "83": 22, "84": 22, "85": 23, "86": 24, "87": 26, "88": 26, "89": 27, "90": 27, "91": 27, "92": 27, "93": 31, "98": 31, "99": 37, "100": 37, "101": 38, "102": 38, "108": 8, "118": 8, "124": 18, "139": 31, "154": 139}}
 __M_END_METADATA
 """

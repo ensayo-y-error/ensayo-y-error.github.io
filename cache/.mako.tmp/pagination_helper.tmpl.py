@@ -5,9 +5,9 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1660325631.2591617
+_modified_time = 1660327455.5668824
 _enable_loop = True
-_template_filename = 'C:/Users/delos/OneDrive/Documentos/Blogs/nikola/lib/site-packages/nikola/data/themes/base/templates/pagination_helper.tmpl'
+_template_filename = 'themes/numython/templates/pagination_helper.tmpl'
 _template_uri = 'pagination_helper.tmpl'
 _source_encoding = 'utf-8'
 _exports = ['page_navigation']
@@ -54,6 +54,6 @@ def render_page_navigation(context,current_page,page_links,prevlink,nextlink,pre
 
 """
 __M_BEGIN_METADATA
-{"filename": "C:/Users/delos/OneDrive/Documentos/Blogs/nikola/lib/site-packages/nikola/data/themes/base/templates/pagination_helper.tmpl", "uri": "pagination_helper.tmpl", "source_encoding": "utf-8", "line_map": {"16": 0, "21": 16, "27": 2, "34": 2, "35": 4, "36": 5, "37": 6, "38": 7, "39": 7, "40": 7, "41": 8, "42": 9, "43": 9, "44": 9, "45": 9, "46": 9, "47": 11, "48": 12, "49": 15, "55": 49}}
+{"filename": "themes/numython/templates/pagination_helper.tmpl", "uri": "pagination_helper.tmpl", "source_encoding": "utf-8", "line_map": {"16": 0, "21": 16, "27": 2, "34": 2, "35": 4, "36": 5, "37": 6, "38": 7, "39": 7, "40": 7, "41": 8, "42": 9, "43": 9, "44": 9, "45": 9, "46": 9, "47": 11, "48": 12, "49": 15, "55": 49}}
 __M_END_METADATA
 """

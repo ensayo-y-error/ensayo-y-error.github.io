@@ -5,9 +5,9 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1660325631.3373291
+_modified_time = 1660327455.3782218
 _enable_loop = True
-_template_filename = 'C:/Users/delos/OneDrive/Documentos/Blogs/nikola/lib/site-packages/nikola/data/themes/base/templates/post.tmpl'
+_template_filename = 'themes/numython/templates/post.tmpl'
 _template_uri = 'post.tmpl'
 _source_encoding = 'utf-8'
 _exports = ['extra_head', 'content']
@@ -39,19 +39,19 @@ def render_body(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
         __M_locals = __M_dict_builtin(pageargs=pageargs)
+        pheader = _mako_get_namespace(context, 'pheader')
         def extra_head():
             return render_extra_head(context._locals(__M_locals))
-        site_has_comments = context.get('site_has_comments', UNDEFINED)
-        comments = _mako_get_namespace(context, 'comments')
+        smartjoin = context.get('smartjoin', UNDEFINED)
+        helper = _mako_get_namespace(context, 'helper')
         def content():
             return render_content(context._locals(__M_locals))
-        math = _mako_get_namespace(context, 'math')
-        helper = _mako_get_namespace(context, 'helper')
-        post = context.get('post', UNDEFINED)
+        comments = _mako_get_namespace(context, 'comments')
         parent = context.get('parent', UNDEFINED)
-        pheader = _mako_get_namespace(context, 'pheader')
+        post = context.get('post', UNDEFINED)
+        site_has_comments = context.get('site_has_comments', UNDEFINED)
         messages = context.get('messages', UNDEFINED)
-        smartjoin = context.get('smartjoin', UNDEFINED)
+        math = _mako_get_namespace(context, 'math')
         __M_writer = context.writer()
         __M_writer('\n')
         __M_writer('\n')
@@ -76,11 +76,11 @@ def render_body(context,**pageargs):
 def render_extra_head(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
-        helper = _mako_get_namespace(context, 'helper')
-        post = context.get('post', UNDEFINED)
         def extra_head():
             return render_extra_head(context)
         smartjoin = context.get('smartjoin', UNDEFINED)
+        helper = _mako_get_namespace(context, 'helper')
+        post = context.get('post', UNDEFINED)
         math = _mako_get_namespace(context, 'math')
         parent = context.get('parent', UNDEFINED)
         __M_writer = context.writer()
@@ -125,15 +125,15 @@ def render_extra_head(context,**pageargs):
 def render_content(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
-        site_has_comments = context.get('site_has_comments', UNDEFINED)
-        comments = _mako_get_namespace(context, 'comments')
+        pheader = _mako_get_namespace(context, 'pheader')
+        helper = _mako_get_namespace(context, 'helper')
         def content():
             return render_content(context)
-        math = _mako_get_namespace(context, 'math')
-        helper = _mako_get_namespace(context, 'helper')
+        comments = _mako_get_namespace(context, 'comments')
+        site_has_comments = context.get('site_has_comments', UNDEFINED)
         post = context.get('post', UNDEFINED)
         messages = context.get('messages', UNDEFINED)
-        pheader = _mako_get_namespace(context, 'pheader')
+        math = _mako_get_namespace(context, 'math')
         __M_writer = context.writer()
         __M_writer('\n<article class="post-')
         __M_writer(str(post.meta('type')))
@@ -164,6 +164,6 @@ def render_content(context,**pageargs):
 
 """
 __M_BEGIN_METADATA
-{"filename": "C:/Users/delos/OneDrive/Documentos/Blogs/nikola/lib/site-packages/nikola/data/themes/base/templates/post.tmpl", "uri": "post.tmpl", "source_encoding": "utf-8", "line_map": {"23": 2, "26": 3, "29": 4, "32": 5, "38": 0, "56": 2, "57": 3, "58": 4, "59": 5, "60": 6, "65": 27, "70": 50, "76": 8, "87": 8, "88": 9, "89": 9, "90": 10, "91": 11, "92": 11, "93": 11, "94": 13, "95": 13, "96": 13, "97": 14, "98": 15, "99": 15, "100": 15, "101": 15, "102": 15, "103": 17, "104": 18, "105": 18, "106": 18, "107": 18, "108": 18, "109": 20, "110": 21, "111": 23, "112": 23, "113": 23, "114": 24, "115": 24, "116": 25, "117": 25, "118": 26, "119": 26, "125": 29, "138": 29, "139": 30, "140": 30, "141": 31, "142": 31, "143": 33, "144": 33, "145": 37, "146": 37, "147": 38, "148": 38, "149": 41, "150": 42, "151": 43, "152": 43, "153": 44, "154": 44, "155": 47, "156": 47, "157": 47, "158": 49, "159": 49, "165": 159}}
+{"filename": "themes/numython/templates/post.tmpl", "uri": "post.tmpl", "source_encoding": "utf-8", "line_map": {"23": 2, "26": 3, "29": 4, "32": 5, "38": 0, "56": 2, "57": 3, "58": 4, "59": 5, "60": 6, "65": 27, "70": 50, "76": 8, "87": 8, "88": 9, "89": 9, "90": 10, "91": 11, "92": 11, "93": 11, "94": 13, "95": 13, "96": 13, "97": 14, "98": 15, "99": 15, "100": 15, "101": 15, "102": 15, "103": 17, "104": 18, "105": 18, "106": 18, "107": 18, "108": 18, "109": 20, "110": 21, "111": 23, "112": 23, "113": 23, "114": 24, "115": 24, "116": 25, "117": 25, "118": 26, "119": 26, "125": 29, "138": 29, "139": 30, "140": 30, "141": 31, "142": 31, "143": 33, "144": 33, "145": 37, "146": 37, "147": 38, "148": 38, "149": 41, "150": 42, "151": 43, "152": 43, "153": 44, "154": 44, "155": 47, "156": 47, "157": 47, "158": 49, "159": 49, "165": 159}}
 __M_END_METADATA
 """
