@@ -9,4 +9,8 @@
 .. type: text
 -->
 
-Escriba su publicación aquí.
+Jean Piaget
+
+<p style="text-align: center;">
+<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328028073i/12184834.jpg" width="150px">
+</p>

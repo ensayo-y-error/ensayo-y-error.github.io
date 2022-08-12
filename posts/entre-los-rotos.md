@@ -10,7 +10,7 @@
 -->
 
 <p style="text-align: center;">
-<img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572260325l/53031096._SX318_SY475_.jpg" width="200px">
+<img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572260325l/53031096._SX318_SY475_.jpg" width="150px">
 </p>
 
 Hace unos días leí el libro [Entre los rotos](https://www.amazon.com.mx/Entre-rotos-Alaide-Ventura-Medina/dp/6073185952/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=NBY40OLAXDYR&keywords=entre+los+rotos&qid=1659062228&sprefix=entre+los+rotos%2Caps%2C145&sr=8-1) de Alaíde Ventura, una joven escritora veracruzana. Es sin duda un buen libro, donde la narradora va relatando su historia familiar a partir de una serie de fotografías que su hermano había conservado hasta el momento de su muerte.
