@@ -620,7 +620,7 @@ table.codetable, table.highlighttable { width: 100%;}
 body {
 	color: #4F5151;
 	font-family: Helvetica, Arial, sans-serif;
-	font-size: 17px;
+	font-size: 16px;
 	line-height: 1.4;
 	padding: 1em;
 }
@@ -1022,6 +1022,14 @@ blockquote {
     border-bottom: 1px solid #ABABAB;
     border-right: 0;
     border-top: 1px solid #ABABAB
+}
+
+.metadata {
+	font-size: 14px;
+}
+
+.byline-name {
+	font-weight: bold;
 }
 /*!
  * baguetteBox.js
