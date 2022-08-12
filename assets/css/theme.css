@@ -419,3 +419,16 @@ pre.code, code {
 		padding: 0;
 	}
 }
+
+
+/*Customized*/
+
+blockquote {
+	background-color: #FAFAF7;
+    border-radius: 5px;
+    padding: 5px;
+    font-style: italic;
+    border-bottom: 1px solid #ABABAB;
+    border-right: 0;
+    border-top: 1px solid #ABABAB
+}
