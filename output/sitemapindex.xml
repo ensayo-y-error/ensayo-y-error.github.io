@@ -10,6 +10,10 @@
   <lastmod>2022-08-12T17:33:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://ensayo-y-error.github.io/categories/cuentos.xml</loc>
+  <lastmod>2023-01-09T17:29:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://ensayo-y-error.github.io/categories/economia.xml</loc>
   <lastmod>2022-08-12T17:33:00Z</lastmod>
  </sitemap>
@@ -31,7 +35,7 @@
  </sitemap>
  <sitemap>
   <loc>https://ensayo-y-error.github.io/categories/literatura-estadounidense.xml</loc>
-  <lastmod>2022-08-12T18:04:00Z</lastmod>
+  <lastmod>2023-01-09T17:29:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ensayo-y-error.github.io/categories/literatura-mexicana.xml</loc>
@@ -51,10 +55,10 @@
  </sitemap>
  <sitemap>
   <loc>https://ensayo-y-error.github.io/rss.xml</loc>
-  <lastmod>2023-01-01T18:57:00Z</lastmod>
+  <lastmod>2023-01-09T17:29:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ensayo-y-error.github.io/sitemap.xml</loc>
-  <lastmod>2023-01-01T18:57:00Z</lastmod>
+  <lastmod>2023-01-09T17:29:00Z</lastmod>
  </sitemap>
 </sitemapindex>
