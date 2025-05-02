@@ -2,8 +2,8 @@
 .. title: Instrucciones para vivir en México
 .. slug: instrucciones-para-vivir-en-mexico
 .. date: 2023-02-16 16:27:32 UTC-06:00
-.. tags: 
-.. category: 
+.. tags: literatura-mexicana
+.. category:
 .. link: 
 .. description: 
 .. type: text
@@ -22,4 +22,10 @@ En uno de los artículos, Ibargüengoitia se pregunta y reflexiona acerca de qu�
 
 Ni que decir. Lo cierto es que en lo cotidiano se pueden observar los rastros de esta división. Quien no la percibe de forma significativa es porque se mueve en un círculo reducido, o porque es de los "conquistadores", y a estos les da igual.  
 
+En otro de los artículos (Lista de composturas), Ibargüengoitia hace un examen de conciencia patriótica, en el cual reflexiona acerca de México y los mexicanos. Hay un par de pasajes que se me hicieron, cuando menos, interesantes:
 
+> Además de hambre atrasada, el mexicano tiene muchas burlas a cuestas. Sabe que vive en un mundo infantil, en el que el que no llora no mama. Esto lo hace forzar la entrada en la vida. Avorazado no sólo de dinero, sino de posición, finge que no ve la cola y se mete directo a la taquilla, da la vuelta donde le conviene y causa un conflicto de tránsito; si es político, da un golpe cada vez que puede, en venganza de todas las vejaciones que le hicieron antes y en preparación de los desastres que puedan venir.
+
+> Además de avorazados los mexicanos son quejumbrosos, y peor, están satisfechos. «Ni modo», dicen, «así nacimos». Lo cual es mentira. Todos los defectos que he señalado podrían corregirse si no hubiera aquí «fuerzas oscuras» tratando de fomentarlos.
+
+Bueno, como ya decíamos, esto sigue vigente, basta con salir un poco a la calle para comprobarlo. Pero hay que decirlo todo: no todos los mexicanos están tan acomplejados, hay muchos mexicanos de bien.

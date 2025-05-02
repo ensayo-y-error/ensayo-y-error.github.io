@@ -6,6 +6,10 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://ensayo-y-error.github.io/categories/ciencia-ficcion.xml</loc>
+  <lastmod>2025-05-02T17:56:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://ensayo-y-error.github.io/categories/creatividad.xml</loc>
   <lastmod>2022-08-12T17:33:00Z</lastmod>
  </sitemap>
@@ -23,7 +27,7 @@
  </sitemap>
  <sitemap>
   <loc>https://ensayo-y-error.github.io/categories/favoritos.xml</loc>
-  <lastmod>2022-08-12T18:04:00Z</lastmod>
+  <lastmod>2025-05-02T17:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ensayo-y-error.github.io/categories/innovacion.xml</loc>
@@ -39,7 +43,7 @@
  </sitemap>
  <sitemap>
   <loc>https://ensayo-y-error.github.io/categories/literatura-mexicana.xml</loc>
-  <lastmod>2022-08-12T17:33:00Z</lastmod>
+  <lastmod>2025-05-02T17:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ensayo-y-error.github.io/categories/no-ficcion.xml</loc>
@@ -55,10 +59,10 @@
  </sitemap>
  <sitemap>
   <loc>https://ensayo-y-error.github.io/rss.xml</loc>
-  <lastmod>2025-05-02T17:07:00Z</lastmod>
+  <lastmod>2025-05-02T17:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ensayo-y-error.github.io/sitemap.xml</loc>
-  <lastmod>2025-05-02T17:08:00Z</lastmod>
+  <lastmod>2025-05-02T17:56:00Z</lastmod>
  </sitemap>
 </sitemapindex>
