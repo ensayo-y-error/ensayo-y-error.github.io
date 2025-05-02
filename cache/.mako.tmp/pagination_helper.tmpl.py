@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1676588325.1137667
+_modified_time = 1746205668.88408
 _enable_loop = True
 _template_filename = 'themes/numython/templates/pagination_helper.tmpl'
 _template_uri = 'pagination_helper.tmpl'
@@ -33,7 +33,9 @@ def render_page_navigation(context,current_page,page_links,prevlink,nextlink,pre
         __M_writer = context.writer()
         __M_writer('\n<div class="page-navigation">\n')
         for i, link in enumerate(page_links):
+            pass
             if abs(i - current_page) <= surrounding or i == 0 or i == len(page_links) - 1:
+                pass
                 if i == current_page:
                     __M_writer('        <span class="current-page">')
                     __M_writer(str(i+1))
@@ -54,6 +56,6 @@ def render_page_navigation(context,current_page,page_links,prevlink,nextlink,pre
 
 """
 __M_BEGIN_METADATA
-{"filename": "themes/numython/templates/pagination_helper.tmpl", "uri": "pagination_helper.tmpl", "source_encoding": "utf-8", "line_map": {"16": 0, "21": 16, "27": 2, "34": 2, "35": 4, "36": 5, "37": 6, "38": 7, "39": 7, "40": 7, "41": 8, "42": 9, "43": 9, "44": 9, "45": 9, "46": 9, "47": 11, "48": 12, "49": 15, "55": 49}}
+{"filename": "themes/numython/templates/pagination_helper.tmpl", "uri": "pagination_helper.tmpl", "source_encoding": "utf-8", "line_map": {"16": 0, "21": 16, "27": 2, "34": 2, "35": 4, "37": 5, "39": 6, "40": 7, "41": 7, "42": 7, "43": 8, "44": 9, "45": 9, "46": 9, "47": 9, "48": 9, "49": 11, "50": 12, "51": 15, "57": 51}}
 __M_END_METADATA
 """
