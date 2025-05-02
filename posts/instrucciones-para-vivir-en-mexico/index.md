@@ -20,4 +20,6 @@ En uno de los artículos, Ibargüengoitia se pregunta y reflexiona acerca de qu�
 
 > Para nosotros, la Independencia no trajo consigo la igualdad, sino que dejó una clase que siguió comportándose como los conquistadores, con gran "señorío", y que se sigue comportando igual a pesar de cien años de pleitos y cincuenta de justicia social.
 
+Ni que decir. Lo cierto es que en lo cotidiano se pueden observar los rastros de esta división. Quien no la percibe de forma significativa es porque se mueve en un círculo reducido, o porque es de los "conquistadores", y a estos les da igual.  
+
 
