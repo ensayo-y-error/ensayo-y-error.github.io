@@ -1,7 +1,7 @@
 <!--
 .. title: Flores para Algernon
 .. slug: flores-para-algernon
-.. date: 2025-05-02 11:35:09 UTC-06:00
+.. date: 2025-04-15 11:35:09 UTC-06:00
 .. tags: ciencia-ficción, favoritos
 .. category: 
 .. link: 
@@ -22,4 +22,4 @@ La historia está narrada a través de informes de progreso escritos por Charlie
 
 > igual que ablo y como escrebo las conposiciones en la clase de miss Kinnian en la clase de adultos retasados del colegio bikman donde boi 3 bezes por semana en mis oras libres. El doctor Strauss dise que escreba mucho todo lo que yo pienso y todo lo que me pasa pero yo no puedo pensar mas porque no tengo nada mas para escrebir y asi termino por oi... su afetisimo Charlie Gordon.
 
-La manera en que está escrita la novela es muy particular. Los informes de progreso dejan ver cómo evoluciona Charlie tanto en el aspecto intelectual como en el emocional después de que ha sido operado. Creo que se puede sentir ese ¿enojo? que experimenta cuando en algún punto descubre cómo las demás personas lo han tratado a lo largo de su vida, dada su condición de baja capacidad intelectual. Descubre pronto que entre más crece en el plano intelectual las personas tienden a alejarse de él (¿o él de las personas?). Charlie disfruta, por poco tiempo, de una inteligencia privilegiada, aprende más rápido que cualquier persona, incursiona en muchos campos, aprende muchos idiomas, participa incluso en la investigación del procedimiento experimental del que fue objeto y llega a la conclusión de que su capacidad intelectual decrecerá en algún momento, incluso a niveles inferiores a los que inicialmente tenía. Por cierto, Algernon es un ratón de laboratorio, compañero de viaje de Charlie, al que le practicaron el mismo procedimiento, y en el cual Charlie puede ver con anticipación el inevitable desenlace.
+La manera en que está escrita la novela es muy particular. Los informes de progreso dejan ver cómo evoluciona Charlie tanto en el aspecto intelectual como en el emocional después de que ha sido operado. Creo que se puede sentir ese ¿enojo? que experimenta cuando en algún punto descubre cómo las demás personas lo han tratado a lo largo de su vida, dada su condición de baja capacidad intelectual. Descubre pronto que entre más crece en el plano intelectual las personas tienden a alejarse de él (¿o él de las personas?). Charlie disfruta, por poco tiempo, de una inteligencia privilegiada, aprende más rápido que cualquier persona, incursiona en muchos campos, aprende muchos idiomas, participa incluso en la investigación del procedimiento experimental del que fue objeto y llega a la conclusión de que su capacidad intelectual decrecerá en algún momento, incluso a niveles inferiores a los que inicialmente tenía. Por cierto, Algernon es un ratón de laboratorio, compañero de viaje de Charlie, al que le practicaron el mismo procedimiento, y en el cual Charlie puede ver con anticipación su inevitable desenlace.
